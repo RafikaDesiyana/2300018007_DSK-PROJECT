@@ -2,7 +2,7 @@
 .STACK 100H 
 .DATA 
     BARIS  DB 0AH, 0DH,"+------------------------------------+",'$'
-    BARIS1 DB 0AH, 0DH,"|SELAMAT DATANG DIPROGRAM PRENGKINGAN|",'$'
+    BARIS1 DB 0AH, 0DH,"|SELAMAT DATANG DIPROGRAM PERENGKINGAN|",'$'
     BARIS2 DB 0AH, 0DH,"+------------------------------------+",'$' 
     BARIS3 DB 0AH, 0DH, 'RENTANG NILAI/POINT (0-100)','$'
     NAMA   DB 0AH, 0DH, "MASUKKAN NAMA KELOMPOK/PERORANGAN 1 = $"
